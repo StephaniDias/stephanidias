@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Stephani Dias 👋
 
-- 🔭 Estudante do Programa One Oracle.
-- 🌱 Estudando HTML, CSS e JAVSCRIPT
+- 🔭 Estudante do Coursera, fazendo o curso de "SUPORTE DE TI".
+- 🌱 Estudando HTML, CSS e JAVSCRIPT.
 - 😄 Pronouns: ela/dela
   
 ## Habilidades
