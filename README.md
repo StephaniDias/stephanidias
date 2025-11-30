@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Stephani Dias 👋
 
-- 🔭 Estudante de Aánlise e Desenvolvimento de Sistemas na Uninter.
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas na Uninter.
 - 🌱 Estudando HTML, CSS e JAVSCRIPT.
 - 😄 Pronouns: ela/dela
   
