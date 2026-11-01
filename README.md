@@ -14,7 +14,7 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uninter
 - 💻 Estudando HTML, CSS, JavaScript e lógica de programação
-- 📊 Experiência com Power BI e Excel em ambiente corporativo (Petz)
+- 📊 Experiência com Power BI e Excel em ambiente corporativo 
 - 🔎 Buscando oportunidade de **estágio em TI** para aplicar e evoluir esses conhecimentos na prática
 - 🌱 Sempre em busca de novos desafios e aprendizado
 
